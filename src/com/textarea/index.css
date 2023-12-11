@@ -1,0 +1,19 @@
+.textarea-wrapper {
+    margin-top: 20px;
+}
+.text-input::placeholder {
+    color: var(--Gray, #6E6D77);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Circular Std;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 450;
+    line-height: normal;
+    }
+.discription {
+    width: 100%;
+    padding: 20px;
+    border-radius: 16px;
+    border: 1px solid #E3E3E3;
+    resize: none;
+}
